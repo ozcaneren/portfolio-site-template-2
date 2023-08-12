@@ -21,7 +21,7 @@ const Home = () => {
           <div className="grid grid-cols-1 md:h-[240px] md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-gray-200 p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02] cursor-pointer">
               <Link
-                href="https://www.paysfer.com"
+                href="https://www.github.com/ozcaneren"
                 target="_blank"
                 title="Click for more"
               >
@@ -40,7 +40,7 @@ const Home = () => {
 
             <div className="bg-gray-200 p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02] cursor-pointer">
               <Link
-                href="https://engineering.nyu.edu/academics/undergraduate/tutoring-center"
+                href="https://www.github.com/ozcaneren"
                 target="_blank"
                 title="Click for more"
               >
@@ -59,7 +59,7 @@ const Home = () => {
 
             <div className="bg-gray-200 p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02] cursor-pointer">
               <Link
-                href="https://www.tutormundi.com"
+                href="https://www.github.com/ozcaneren"
                 target="_blank"
                 title="Click for more"
               >
