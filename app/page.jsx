@@ -93,9 +93,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>
@@ -109,9 +107,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>
@@ -125,9 +121,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>
@@ -141,9 +135,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>
@@ -157,9 +149,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>
@@ -173,9 +163,7 @@ const Home = () => {
                 className="bg-gray-200 h-[204px] p-6 rounded-lg shadow-md transition-transform ease-in-out duration-300 scale-x-100 hover:scale-[1.02]"
                 title="Click for more"
               >
-                <h3 className="text-xl font-bold mb-2">
-                  Lorem
-                </h3>
+                <h3 className="text-xl font-bold mb-2">Lorem</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                 </p>

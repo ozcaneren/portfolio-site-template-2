@@ -13,9 +13,7 @@ export default function Skills() {
         </ul>
         <h2 className="text-3xl font-bold mt-6 mb-4">Hobbies</h2>
         <ul className="list-disc pl-3">
-          <li>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          </li>
+          <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
           <li>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam

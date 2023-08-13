@@ -6,9 +6,7 @@ export default function ContactSection() {
   return (
     <section className="bg-gray-100 py-6 px-2 lg:px-3">
       <div className="container mx-auto text-center">
-        <h2 className="text-3xl font-bold mb-4">
-          Let&apos;s Connect
-        </h2>
+        <h2 className="text-3xl font-bold mb-4">Let&apos;s Connect</h2>
         <p className="text-xl">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
